@@ -14,3 +14,6 @@ The [models](/models) folder contains all of the code for running models. The di
 The [analysis](/analysis) folder contains all of the code for performing analysis. This is a broad category. Basically, if something takes some processed data and computes some information about it, that is analysis. For example, you might take the output of a model, and look at its characteristics. Or you might take some data that has been processed, and compute its characteristics. For example, if you are looking at the average user step counts, or the weather patterns, that might go in the analysis folder. This might be different than evaluation. 
 
 The [evaluation](/evaluation) folder contains all of the code for performing evaluation. What differentiates evaluation from analysis? If there is no distinction for you, just put it in analysis. Basically, evaluation tells you how well a model does something. If a model takes input and gives you output, you want to know how well this generated output matches your ground truth output. This tells you something about the model. 
+
+
+The [other](/other) folder is for everything that you can't categorize. Try to categorize, this is a last resort. 
