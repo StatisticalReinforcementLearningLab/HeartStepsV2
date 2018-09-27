@@ -17,3 +17,5 @@ The [evaluation](/evaluation) folder contains all of the code for performing eva
 
 
 The [other](/other) folder is for everything that you can't categorize. Try to categorize, this is a last resort. 
+
+Another way of thinking about categorizing, is to differentiate between confirmatory and exploratory analysis. Confirmatory analysis might go in the analysis folder. Exploratory may cause you to make a model, which would go in the models directory.  
